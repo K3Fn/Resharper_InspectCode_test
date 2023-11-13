@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <TargetFrameworks>net6.0;net472</TargetFrameworks>
+        <Configurations>Release;Debug</Configurations>
+        <Platforms>x64</Platforms>
+		<LangVersion>10.0</LangVersion>
+    </PropertyGroup>
+
+</Project>

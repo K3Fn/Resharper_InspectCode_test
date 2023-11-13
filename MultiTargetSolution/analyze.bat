@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\JetBrains\ReSharperTools\inspectcode.exe" "MultiTargetSolution.sln" /no-build /caches-home=".NETFramework,Version=v6.0" /output="MultiTargetSolution.sln.net6.0.Inspections.xml" /properties:"ToolsVersion=Current;Configuration=Debug;Platform=x64;TargetFramework=net6.0" --project="ConsoleAppNet6"
+
+"C:\Program Files (x86)\JetBrains\ReSharperTools\inspectcode.exe" "MultiTargetSolution.sln" /no-build /caches-home=".NETFramework,Version=v6.0,Profile=windows" /output="MultiTargetSolution.sln.net6.0-windows.Inspections.xml" /properties:"ToolsVersion=Current;Configuration=Debug;Platform=x64;TargetFramework=net6.0-windows" --project="WindowsAppNet6"
